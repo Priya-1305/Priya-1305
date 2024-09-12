@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">An App Developer</h3>
 <img align="right" width="300px" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 - 🌱 I’m currently learning **Flutter**
