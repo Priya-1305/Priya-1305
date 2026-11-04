@@ -88,9 +88,9 @@ Always experimenting. Always building.
 ### `03 // ENGINEERING HIGHLIGHTS`
 
 - 🏆 Winner — Technovate 2024
+- 🥇 Runner-up - Techsprint 2026
 - 🥇 Top 5 — Fetch-AI-Thon 2.0
 - 🚀 Top 10 — HackStreet 2024
-- ♟️ Runner-up — University of Delhi Inter-College Chess 2026
 - 👩‍💻 Former Tech Lead — Google Developer Student Clubs, Rajguru College
 
 ---
